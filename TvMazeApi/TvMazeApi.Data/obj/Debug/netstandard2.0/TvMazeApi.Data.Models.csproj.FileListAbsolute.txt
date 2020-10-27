@@ -1,0 +1,8 @@
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\bin\Debug\netstandard2.0\TvMazeApi.Data.Models.deps.json
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\bin\Debug\netstandard2.0\TvMazeApi.Data.Models.dll
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\bin\Debug\netstandard2.0\TvMazeApi.Data.Models.pdb
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\obj\Debug\netstandard2.0\TvMazeApi.Data.Models.AssemblyInfoInputs.cache
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\obj\Debug\netstandard2.0\TvMazeApi.Data.Models.AssemblyInfo.cs
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\obj\Debug\netstandard2.0\TvMazeApi.Data.Models.dll
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\obj\Debug\netstandard2.0\TvMazeApi.Data.Models.pdb
+C:\Users\fgomez\source\repos\TvMazeApi\TvMazeApi.Data\obj\Debug\netstandard2.0\TvMazeApi.Data.Models.csprojAssemblyReference.cache

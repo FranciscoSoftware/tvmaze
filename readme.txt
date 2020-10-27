@@ -1,0 +1,1 @@
+in the file appsetting.json there are the connection string for the bd and the url to the log file
